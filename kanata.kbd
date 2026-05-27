@@ -23,9 +23,9 @@
 )
 
 (deflayer navigation
-  _    _    _    _         _          _    _    _    _  _     _    _    _ caps
-  _    _    up   @deskleft @deskright _    _    _    _  _     _    _    _    _
-  _    left down right     _          _    left down up right _   del   _
-  _    _    _    _         _          _    _    _    _   _    _    _
-  _    _    _                        bspc            _    _    _
+  _    _    _    _         _          _    _    _    _  _     _   _    _ caps
+  _    _    up   @deskleft @deskright _    _    _    home  end     _   _    _    _
+  _    left down right     esc        _    left down up right _   del  _
+  _    _    _    _         _          _    _    _    _   _    _   _
+  _    _    _                        bspc            _   _    _
 )
